@@ -9,6 +9,7 @@ curl -sS -O https://raw.githubusercontent.com/rockmetalcn/shell/main/rockmetal.s
 
 脚本展示图
 
+![image](https://github.com/rockmetalcn/shell/assets/74691164/10c0a58b-570f-4d76-abf1-238f3e9af1c5)
 
 
 目前只支持Ubuntu和Debian系统，暂不支持其它系统！
