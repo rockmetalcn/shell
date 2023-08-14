@@ -257,7 +257,7 @@ case $choice in
               rm -rf /var/lib/docker
               ;;                                    
           0)
-              /root/kejilion.sh
+              /root/rockmetal.sh
               exit
               ;;
           *)
@@ -459,7 +459,7 @@ case $choice in
           esac              
               ;;                                  
           0)
-              /root/kejilion.sh
+              /root/rockmetal.sh
               exit
               ;;
           *)
@@ -971,7 +971,7 @@ case $choice in
         ;;
 
     0)
-    /root/kejilion.sh
+    /root/rockmetal.sh
     exit
       ;;
 
