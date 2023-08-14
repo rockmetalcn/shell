@@ -5,7 +5,7 @@
 
 apt update -y  && apt install -y curl
 
-curl -sS -O https://github.com/rockmetalcn/shell/blob/main/rockmetal.sh && chmod +x rockmetal.sh && ./rockmetal.sh
+curl -sS -O https://raw.githubusercontent.com/rockmetalcn/shell/main/rockmetal.sh && chmod +x rockmetal.sh && ./rockmetal.sh
 
 脚本展示图
 
