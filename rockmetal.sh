@@ -160,7 +160,7 @@ case $choice in
               apt remove htop iftop unzip tmux ffmpeg
               ;;     
           0)
-              /root/kejilion.sh
+              /root/rockmetal.sh
               exit
               ;;
           *)
@@ -333,7 +333,7 @@ case $choice in
               wget -qO- bench.sh | bash
               ;;        
           0)
-              /root/kejilion.sh
+              /root/rockmetal.sh
               exit
               ;;
           *)
